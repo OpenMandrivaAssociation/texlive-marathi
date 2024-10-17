@@ -3,7 +3,7 @@ Version:	61719
 Release:	1
 Summary:	Typeset Marathi language using XeLaTeX or LuaLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/marathi
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/marathi
 License:	gpl3+ other-free fdl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/marathi.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/marathi.doc.r%{version}.tar.xz
